@@ -28,6 +28,7 @@ Bengaluru house prices from Kaggle (13,000+ records)
 - MAE: ~₹12 Lakhs
 
 ## Screenshot
+![Uploading image.png…]()
 
 
 ## License
