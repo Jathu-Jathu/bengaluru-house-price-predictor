@@ -27,8 +27,17 @@ Bengaluru house prices from Kaggle (13,000+ records)
 - R² Score: ~0.78
 - MAE: ~₹12 Lakhs
 
-## Screenshot
-![Bengaluru House Price Predictor](bengaluru-house-price-predictor.png)
+## 📸 Screenshots
+
+### 🏠 Home Page
+<p align="center">
+  <img src="bengaluru-house-price-predictor.png" width="600"/>
+</p>
+
+### 📊 Prediction Result
+<p align="center">
+  <img src="bengaluru-house-price-predictor2.png" width="600"/>
+</p>
 
 
 ## License
