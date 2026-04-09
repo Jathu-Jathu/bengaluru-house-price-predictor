@@ -1,0 +1,7 @@
+@import "tailwindcss";
+
+/* Fix dropdown option colors */
+select option {
+  background-color: white !important;
+  color: black !important;
+}
