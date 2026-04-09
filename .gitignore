@@ -1,0 +1,28 @@
+# Python
+__pycache__/
+*.pyc
+venv/
+env/
+
+# Jupyter
+*.ipynb
+.ipynb_checkpoints/
+
+# Data & Models
+*.csv
+*.pkl
+
+# Next.js
+frontend/node_modules/
+frontend/.next/
+frontend/out/
+
+# Flask
+instance/
+
+# IDE
+.vscode/
+.idea/
+
+# Training script (optional, not needed for production)
+train.py
